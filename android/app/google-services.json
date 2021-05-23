@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "156988979882",
+    "project_id": "time-tracker-course-44416",
+    "storage_bucket": "time-tracker-course-44416.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:156988979882:android:64f6632669f31fd4daeed3",
+        "android_client_info": {
+          "package_name": "tikakot.flutter_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "156988979882-4jma1qicl363peu2vae5kel9vfgemrpv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBpNUUvPjvsKI3QDgkoM9zx6SksW_Rwrbw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "156988979882-4jma1qicl363peu2vae5kel9vfgemrpv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
